@@ -43,7 +43,7 @@
 
 ### Use os prompts de roteiro gerados pelo chatgpt no Narakeet com os devidos ajuste necessário
 - Texto gerado pelo: [ChatGPT](ChatGPT.pdf)
-- Texto redigido para: [Podcast](Podcast.docx)
+- Texto redigido para: [Podcast](Podcast.pdf)
 
 ### Editar audio gerado por Narakeet no Capcut
 
