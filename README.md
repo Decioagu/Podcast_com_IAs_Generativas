@@ -28,8 +28,8 @@
 
 - Roteiro gerado via chatgpt
 - Imagem gerado pro Chatboxapp
-- Audio gerado por Narakeet
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Áudio gerado por Narakeet
+- Capcut para tratar áudio e adicionar sons de fundo
 
 ## 🛠️ Instruções de execução
 
