@@ -2,12 +2,12 @@
 <h1 align="center"> Podcast gerado por Inteligências Artificiais Generativas</h1>
 <br>
 <p align="center">
-  <img src="Podcast.jpeg" alt="alt text" />
+  <a href="Podcast.MP3"><img src="Podcast.jpeg" alt="alt text" /></a>
 </p>
 
 
 <p align="center">
-  <a href="Podcast.MP3">🎧 Ouvir o Podcast (MP3)</a>
+  <a href="Podcast.MP3">Ouvir o Podcast (MP3)</a>
 </p>
 
 <br>
